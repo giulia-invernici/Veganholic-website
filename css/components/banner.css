@@ -1,8 +1,8 @@
-/* White banner */
+/*white banner*/
 
 .banner-white {
 	background-color: white;
-	padding: 7px;
+	padding: 7px; 
 }
 
 /* Green banner */
@@ -11,6 +11,7 @@
 	background-color: #7FC5B8;
 	padding: 8px 0px;
 }
+
 
 /* Main banner */
 
@@ -35,6 +36,7 @@
 	color: rgb(350,350,350);
 	opacity: 0.8;
 	margin-bottom: 20px;
+
 }
 
 /* Product modal banner */

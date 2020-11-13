@@ -1,9 +1,15 @@
 .container {
-  width: 700px;
+	width: 700px;
 	margin: 2px auto;
 }
 
-/* Responsive design */
+
+.container-bis {
+	width: 500px;
+	margin: 2px auto;
+}
+
+/*responsive design*/
 
 @media (max-width: 960px) {
   .container {
