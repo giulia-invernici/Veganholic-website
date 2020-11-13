@@ -3,6 +3,12 @@
 	margin: 2px auto;
 }
 
+/*container for filter price*/
+.container-bis {
+	width: 500px;
+	margin: 2px auto;
+}
+
 /* Responsive design */
 
 @media (max-width: 960px) {
