@@ -28,6 +28,64 @@ a {
 	color: black;
 }
 
+/* Grey buttons of the main banner for selecting dishes and black one as a customer avatar selction*/
+
+.btn-grey {
+	background-color: rgb(240, 240, 240);
+	color: black;
+	padding: 10px 30px;
+	margin-right: 5px;
+	border-radius: 40px;
+	font-weight: lighter;
+	font-size: 15px;
+	display: inline;
+}
+
+.btn-grey:hover {
+	background-color: black;
+	color: white;
+}
+
+.btn-black {
+	background-color: black;
+	color: white;
+	padding: 10px 30px;
+	margin-right: 5px;
+	border-radius: 40px;
+	font-weight: lighter;
+	font-size: 15px;
+	display: inline;
+}
+
+/*Orange buttons for filtered price in the main dishes menu and the black one as a selected choice*/
+
+.btn-orange {
+	background-color: rgb(240, 240, 240);
+	color: black;
+	padding: 10px 10px;
+	margin-right: 5px;
+	border-radius: 40px;
+	font-weight: lighter;
+	font-size: 9px;
+	display: inline;
+}
+
+.btn-orange:hover {
+	background-color: #E37D5F;
+	color: white;
+}
+
+.btn-orange-black {
+	background-color: black;
+	color: white;
+	padding: 10px 10px;
+	margin-right: 5px;
+	border-radius: 40px;
+	font-weight: lighter;
+	font-size: 9px;
+	display: inline;
+}
+
 /* Reb button sign in/register on the main page */
 
 .btn-register {
